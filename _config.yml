@@ -8,7 +8,7 @@ baseurl: ""
 
 # If you're using GitHub pages without a custom domain, this is "https://[github username].github.io"
 # If you're using GitHub pages with a custom domain, this is "http://[your domain]" (or https if you're using SSL)
-url: "https://mlh.github.io"
+url: "https://mdbhacks.github.io"
 
 # The ability to use custom themes.
 style:
@@ -16,11 +16,11 @@ style:
 
 # This will help you track who's visiting your website.
 tracking:
-  google_analytics: "UA-43729070-14"
+  google_analytics: ""
 
 # Let people connect & engage with you through social media.
 social:
-  twitter_handle: "MLHacks"
+  twitter_handle: "mdbhacks"
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
@@ -45,13 +45,13 @@ event:
       - text: "Apply"
         my_mlh:
           client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
-          redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
+          redirect_uri: "https://mdbhacks.github.io/mlh-hackathon-boilerplate/success.html"
       - text: "Sponsor"
-        href: "mailto:sponsorship@website.com"
+        href: "mailto:mdbhacks@gmail.com"
 
   about:
     description: >
-      Example Hacks is a hackathon hosted at The University of Example.
+      MDBHacks is a hackathon hosted at MongoDB.
       This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
       Keep it straightforward, don't make it too long.
 
